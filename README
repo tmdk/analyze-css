@@ -1,0 +1,8 @@
+Parses CSS files into blocks and provides a basic web interface to filter by class or id.
+
+## Running
+
+```
+$ cd public
+$ ANALYZECSS_FILE=path/to/style.css php -S localhost:8080
+```
